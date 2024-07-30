@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Nicola Heath",
+      "title": "Want to buy sustainable seafood? These tips can help",
+      "description": "Seafood provides an ideal package of nutrients, and there are ways to shop and eat it more sustainably.",
+      "url": "https://www.abc.net.au/news/2024-07-25/how-to-choose-sustainable-seafood-what-to-avoid/104074010",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ae406b76701e0c351f40e1d58aef646b?impolicy=wcms_watermark_news&cropH=1125&cropW=2000&xPos=0&yPos=700&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-07-25T02:05:39Z",
+      "content": "Fish and seafood may be part of your weekly diet as something that's quick and easy to prepare, and good for you, too.\r\nThe Australian dietary guidelines notes that \"regular consumption of fish may h… [+2683 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Siôn Geschwindt",
+      "title": "Mobility giant Bolt adopts self-driving Starship robots for food delivery",
+      "description": "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year.",
+      "url": "http://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca",
+      "publishedAt": "2023-06-22T09:17:15Z",
+      "content": "European ride-hailing firm Bolt will start using self-driving robots to deliver customers food as part of a new partnership with fellow Estonian company Starship Technologies, announced yesterday.  \r… [+2447 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Dipak K Dash",
+      "title": "Government to provide 5 kg free food grains to poor for May & June",
+      "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+      "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T04:23:00Z",
+      "content": null
+    }
+  ]
+}
